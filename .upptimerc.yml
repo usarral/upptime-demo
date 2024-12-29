@@ -1,6 +1,8 @@
 # Change these first
 owner: usarral # Your GitHub organization or username, where this repository lives
 repo: upptime-demo # The name of this repository
+assignees:
+  - usarral
 
 sites:
   - name: Google
