@@ -10,7 +10,7 @@ sites:
   - name: Usarral.com
     url: https://usarral.com
   - name: This site not exists
-    url: http://not-2.com/
+    url: http://not-exist2.com/
 
 status-website:
   baseUrl: /upptime-demo
