@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: Usarral.com
     url: https://usarral.com
+  - name: This site not exists
+    url: http://not-exist.com/
 
 status-website:
   baseUrl: /upptime-demo
